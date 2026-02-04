@@ -1,0 +1,10 @@
+{
+  "name": "GreenMart",
+  "displayName": "GreenMart",
+  "extra": {
+    "eas": {
+      "projectId": "a6ace7d6-b90f-4845-94cd-3706d40bd28e"
+    }
+  },
+  "owner": "bedddouannabi"
+}
